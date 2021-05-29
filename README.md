@@ -35,7 +35,7 @@ The following image shows the web application's appearance and functionality:
 [Horiseon Social Solutions Inc](https://eamahma.github.io/Code_Refactor/)
 
 ## Link to Github repository
-[Github page for  ode Refractor](https://github.com/eamahma/Code_Refactor)
+[Github page for Code Refractor](https://github.com/eamahma/Code_Refactor)
 
 
 ## Description
